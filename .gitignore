@@ -1,1 +1,4 @@
 .DS_Store
+kaggle_out/
+*.zip
+*.kaggle-partial
